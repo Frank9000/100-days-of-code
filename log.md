@@ -20,7 +20,7 @@
 
 ### Day 2: October 29th, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp. Added repo for PhotoGrid assignment from JS Bootcamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling seeing things flowing together.
 
