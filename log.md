@@ -9,13 +9,13 @@
 
 <!--**Link to work:** [Calculator App](http://www.example.com) -->
 
-Day 1: October 28th, 2018 
+### Day 1: October 28th, 2018 
 
-Today's Progress: Worked on updating bootstrap page.
+**Today's Progress**: Worked on updating bootstrap page.
 
-Thoughts: New to bootstrap, still just getting familiar with it. Portifolio page under Heavy Construction. Enjoying the process.
+**Thoughts**: New to bootstrap, still just getting familiar with it. Portifolio page under Heavy Construction. Enjoying the process.
 
-Link(s) to work: <a href="url">https://frank9000.github.io</a>
+**Link(s) to work**: <a href="url">https://frank9000.github.io</a>
 
 
 ### Day 1: June 27, Monday
