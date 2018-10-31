@@ -25,6 +25,20 @@
 **Thoughts** I've recently started coding, and it's a great feeling seeing things flowing together.
 
 
+### Day 3: October 30th, 2018
+
+**Today's Progress**: No Progress for today. Studying for Network+ Exam.
+
+**Thoughts** Will update log tomorrow.
+
+
+### Day 3: October 31th, 2018
+
+**Today's Progress**: Passed my Network+ Exam. Hooray!! Happy Halloween.
+
+**Thoughts** Watched more videos about SDN and very interested on learning python and networking.
+
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
