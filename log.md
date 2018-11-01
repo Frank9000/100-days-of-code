@@ -37,7 +37,7 @@
 **Today's Progress**: Passed my Network+ Exam. Hooray!! Happy Halloween.
 
 **Thoughts** Watched more videos about SDN and very interested on learning python and networking. I want to be more accountable,
- so I am adding for links to the log for things I have done. Here is the link to a PhotoGrid assignment I had from a JS Bootcamp.
+ so I am adding the links to the log for things I have done. Here is the link to a PhotoGrid assignment I had from a JS Bootcamp.
 
 **Link to work:** [PhotoGrid](https://codepen.io/chasea/full/ZqgbxN/)
 
