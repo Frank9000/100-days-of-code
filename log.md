@@ -42,6 +42,15 @@
 **Link to work:** [PhotoGrid](https://codepen.io/chasea/full/ZqgbxN/)
 
 
+### Day 4: November 1st, 2018
+
+**Today's Progress**: Worked on assignments from JS Bootcamp.
+
+**Thoughts** Learning more about Bootstrap. Need to update my Portifolio Bootstrap page with this color #563d7c.
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
