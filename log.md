@@ -49,6 +49,13 @@
 **Thoughts** Learning more about Bootstrap. Need to update my Portifolio Bootstrap page with this color #563d7c.
 
 
+### Day 5: November 7th, 2018
+
+**Today's Progress**: Missed a couple days due to work. Getting back on track today.
+
+**Thoughts** Goals for this #100daysofcode is to have my portfolio built and updated with atleast 5 projects.
+
+
 
 
 
