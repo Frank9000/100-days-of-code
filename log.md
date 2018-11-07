@@ -53,7 +53,7 @@
 
 **Today's Progress**: Missed a couple days due to work. Getting back on track today.
 
-**Thoughts** Goals for this #100daysofcode is to have my portfolio built and updated with at least 5 projects. Complete within 100 day timeline.
+**Thoughts** Goals for this #100daysofcode is to have my portfolio built and updated with at least 5 projects. Complete within 100 day timeline. Working through freeCodeCamp today.
 
 
 
