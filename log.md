@@ -56,6 +56,16 @@
 **Thoughts** Goals for this #100daysofcode is to have my portfolio built and updated with at least 5 projects. Complete within 100 day timeline. Working through freeCodeCamp today.
 
 
+### Day 6: November 8th, 2018
+
+**Today's Progress**: Worked through more of the freecodecamp curriculum. Also close to finishing my survey form page.
+
+**Thoughts** Learned more about Bootstrap today. Bootstrap is so convenient and easy to use.
+
+**Link to work:** [Survey Form](https://codepen.io/chasea/full/yQOEEx/)
+
+
+
 
 
 
