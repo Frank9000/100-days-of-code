@@ -64,6 +64,7 @@
 
 **Link to work:** [Survey Form](https://codepen.io/chasea/full/yQOEEx/)
 
+**Notes** Not sure why the background color is not working with codepen. I will work on this tomorrow and complete the requirements for FCC project.
 
 
 
