@@ -60,7 +60,7 @@
 
 **Today's Progress**: Worked through more of the freecodecamp curriculum. Also close to finishing my survey form page.
 
-**Thoughts** Learned more about Bootstrap today. Bootstrap is so convenient and easy to use.
+**Thoughts** Learned more about Bootstrap today. Bootstrap is so convenient and easy to use. Adding a new notes section at end of each day.
 
 **Link to work:** [Survey Form](https://codepen.io/chasea/full/yQOEEx/)
 
