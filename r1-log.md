@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Chase]
+# #100DaysOfCode Log - Round 1 - Chase
 
-The log of my #100DaysOfCode challenge. Started on [November 12, Monday, 2018].
+The log of my #100DaysOfCode challenge. Started on November 12, Monday, 2018.
 
 ## Log
 
