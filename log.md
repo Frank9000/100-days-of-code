@@ -13,7 +13,7 @@
 
 **Today's Progress**: Worked on updating bootstrap page.
 
-**Thoughts**: New to bootstrap, still just getting familiar with it. Portifolio page under Heavy Construction. Enjoying the process.
+**Thoughts:**: New to bootstrap, still just getting familiar with it. Portifolio page under Heavy Construction. Enjoying the process.
 
 **Link(s) to work**: <a href="url">https://frank9000.github.io</a>
 
@@ -22,21 +22,21 @@
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp. Added repo for PhotoGrid assignment from JS Bootcamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling seeing things flowing together.
+**Thoughts:** I've recently started coding, and it's a great feeling seeing things flowing together.
 
 
 ### Day 3: October 30th, 2018
 
 **Today's Progress**: No Progress for today. Studying for Network+ Exam.
 
-**Thoughts** Will update log tomorrow.
+**Thoughts:** Will update log tomorrow.
 
 
 ### Day 3: October 31th, 2018
 
 **Today's Progress**: Passed my Network+ Exam. Hooray!! Happy Halloween.
 
-**Thoughts** Watched more videos about SDN and very interested on learning python and networking. I want to be more accountable,
+**Thoughts:** Watched more videos about SDN and very interested on learning python and networking. I want to be more accountable,
  so I am adding the links to the log for things I have done. Here is the link to a PhotoGrid assignment I had from a JS Bootcamp.
 
 **Link to work:** [PhotoGrid](https://codepen.io/chasea/full/ZqgbxN/)
@@ -46,26 +46,31 @@
 
 **Today's Progress**: Worked on assignments from JS Bootcamp.
 
-**Thoughts** Learning more about Bootstrap. Need to update my Portifolio Bootstrap page with this color #563d7c.
+**Thoughts:** Learning more about Bootstrap. Need to update my Portifolio Bootstrap page with this color #563d7c.
 
 
 ### Day 5: November 7th, 2018
 
 **Today's Progress**: Missed a couple days due to work. Getting back on track today.
 
-**Thoughts** Goals for this #100daysofcode is to have my portfolio built and updated with at least 5 projects. Complete within 100 day timeline. Working through freeCodeCamp today.
+**Thoughts:** Goals for this #100daysofcode is to have my portfolio built and updated with at least 5 projects. Complete within 100 day timeline. Working through freeCodeCamp today.
 
 
 ### Day 6: November 8th, 2018
 
 **Today's Progress**: Worked through more of the freecodecamp curriculum. Also close to finishing my survey form page.
 
-**Thoughts** Learned more about Bootstrap today. Bootstrap is so convenient and easy to use. Adding a new notes section at end of each day.
+**Thoughts:** Learned more about Bootstrap today. Bootstrap is so convenient and easy to use. Adding a new notes section at end of each day.
 
 **Link to work:** [Survey Form](https://codepen.io/chasea/full/yQOEEx/)
 
 **Notes** Not sure why the background color is not working with codepen. I will work on this tomorrow and complete the requirements for FCC project.
 
+### Day 0: November 26th, 2018
+
+**Today's Progress**: Main goal needs to be completion of portfolio page.
+
+**Thoughts:** Things really got away from me. Busy doing too many other projects and have not been able to keep up with #100days
 
 
 
