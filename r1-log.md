@@ -1,8 +1,11 @@
 # #100DaysOfCode Log - Round 1 - Chase
 
-The log of my #100DaysOfCode challenge. Started on November 12, Monday, 2018.
+The log of my #100DaysOfCode challenge. Started on November 26, Monday, 2018.
 
 ## Log
+
+### R1D1 
+Almost completed Survey Project. Tomorrow finish dropdown and error validation.
 
 ### R1D1 
 Submitted Survey Project on FreeCodeCamp. 
