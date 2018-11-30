@@ -13,6 +13,10 @@ Submitted Survey Project on FreeCodeCamp.
 ### R1D3 
 Worked through exercises on FreeCodeCamp.
 
+### R1D4
+Motivation is hard to find but must persist.
+
+
 
 
 ### R1D2
