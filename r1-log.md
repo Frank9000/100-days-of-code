@@ -7,8 +7,13 @@ The log of my #100DaysOfCode challenge. Started on November 26, Monday, 2018.
 ### R1D1 
 Almost completed Survey Project. Tomorrow finish dropdown and error validation.
 
-### R1D1 
+### R1D2 
 Submitted Survey Project on FreeCodeCamp. 
+
+### R1D3 
+Worked through exercises on FreeCodeCamp.
+
+
 
 ### R1D2
 Here you go.http://www.example.com
