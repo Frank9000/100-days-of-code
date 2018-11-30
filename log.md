@@ -72,6 +72,11 @@
 
 **Thoughts:** Things really got away from me. Busy doing too many other projects and have not been able to keep up with #100days
 
+### Day 1: November 29th, 2018
+
+**Today's Progress**: More freecodecamp.
+
+**Thoughts:** Must maintain a 1 hour time block for code everyday.
 
 
 
