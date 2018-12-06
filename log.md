@@ -78,6 +78,12 @@
 
 **Thoughts:** Must maintain a 1 hour time block for code everyday.
 
+### Day 2: December 5th, 2018
+
+**Today's Progress**: More freecodecamp. More freecodecamp
+
+**Thoughts:** Tired today. "Always forward, never back"
+
 
 
 
