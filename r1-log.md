@@ -19,6 +19,11 @@ Motivation is hard to find but must persist.
 ### R1D5
 Falling off track. Hitting practice but have nothing to post in github.
 
+### R1D6
+I am not a goldfish.
+
+
+
 
 
 ### R1D2
