@@ -84,6 +84,11 @@
 
 **Thoughts:** Tired today. "Always forward, never back"
 
+### Day 3: December 12th, 2018
+
+**Today's Progress**: freecodecamp
+
+**Thoughts:** I have the attention of a goldfish
 
 
 
