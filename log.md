@@ -90,6 +90,13 @@
 
 **Thoughts:** I have the attention of a goldfish
 
+### Day 4: December 14th, 2018
+
+**Today's Progress**: freecodecamp and Bootcamp videos
+
+**Thoughts:** Started working on concepts for special project. Need to sign up for github pro.
+
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
