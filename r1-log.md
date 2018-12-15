@@ -22,6 +22,9 @@ Falling off track. Hitting practice but have nothing to post in github.
 ### R1D6
 I am not a goldfish.
 
+### R1D7
+Bootcamp vids.
+
 
 
 
