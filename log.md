@@ -96,6 +96,11 @@
 
 **Thoughts:** Started working on concepts for special project. Need to sign up for github pro.
 
+### Day 5: December 16th, 2018
+
+**Today's Progress**: Researched how to build a python web scraper. This seems really cool and will be my next project.
+
+**Thoughts:** Will be gone for Christmas break and will not get much done while gone.
 
 
 
