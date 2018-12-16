@@ -25,6 +25,9 @@ I am not a goldfish.
 ### R1D7
 Bootcamp vids.
 
+### R1D8
+Will be gone for Christmas break so will not get a lot done.
+
 
 
 
