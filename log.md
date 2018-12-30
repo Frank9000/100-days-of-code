@@ -102,6 +102,12 @@
 
 **Thoughts:** Will be gone for Christmas break and will not get much done while gone.
 
+### Day 6: December 30th, 2018
+
+**Today's Progress**: Extended Christmas break. Back and ready to work. Watched videos on accessibility.
+
+**Thoughts:** Need to stay focused on one course of action only.
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
