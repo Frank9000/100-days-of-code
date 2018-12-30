@@ -28,6 +28,11 @@ Bootcamp vids.
 ### R1D8
 Will be gone for Christmas break so will not get a lot done.
 
+### R1D9
+Back from break and hitting the ground running.
+
+
+
 
 
 
