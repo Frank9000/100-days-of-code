@@ -114,6 +114,12 @@
 
 **Thoughts:** Feels good to be back in action.
 
+### Day 8: January 27th, 2019
+
+**Today's Progress**: JS Bootcamp exercises. Made an age calc and stalker script.
+
+**Thoughts:** Very easy day. Need to be more consistent in my 100days of code.
+
 
 
 ### Day 0: February 30, 2016 (Example 1)
