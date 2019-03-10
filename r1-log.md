@@ -13,5 +13,3 @@ FreeCodeCamp exercises.
 
 
 
-### R1D2
-Here you go.http://www.example.com
