@@ -1,35 +1,11 @@
 # #100DaysOfCode Log - Round 1 - Chase
 
-The log of my #100DaysOfCode challenge. Started on November 26, Monday, 2018.
+The log of my #100DaysOfCode challenge. Started on March 10, Sunday, 2019.
 
 ## Log
 
 ### R1D1 
-Almost completed Survey Project. Tomorrow finish dropdown and error validation.
-
-### R1D2 
-Submitted Survey Project on FreeCodeCamp. 
-
-### R1D3 
-Worked through exercises on FreeCodeCamp.
-
-### R1D4
-Motivation is hard to find but must persist.
-
-### R1D5
-Falling off track. Hitting practice but have nothing to post in github.
-
-### R1D6
-I am not a goldfish.
-
-### R1D7
-Bootcamp vids.
-
-### R1D8
-Will be gone for Christmas break so will not get a lot done.
-
-### R1D9
-Back from break and hitting the ground running.
+FreeCodeCamp exercises.
 
 
 
