@@ -12,7 +12,7 @@
 
 ### Day 1: June 23rd, 2019
 
-**Today's Progress**: FreeCodeCamp work.
+**Today's Progress**: FreeCodeCamp work and Github restructure.
 
 **Thoughts:** Rebooting 100DaysofCode.
 
