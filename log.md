@@ -120,7 +120,7 @@
 
 **Thoughts:** Very easy day. Need to be more consistent in my 100days of code.
 
-### Day 1: March 10th, 2019
+### Day 1: June 23rd, 2019
 
 **Today's Progress**: FreeCodeCamp work.
 
