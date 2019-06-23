@@ -5,7 +5,7 @@ The log of my #100DaysOfCode challenge. Started on June 23rd, Sunday, 2019.
 ## Log
 
 ### R1D1 
-FreeCodeCamp exercises and Github restructure.
+Codecademy exercises and Github restructure.
 
 
 
