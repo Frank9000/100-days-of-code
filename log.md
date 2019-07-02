@@ -16,6 +16,11 @@
 
 **Thoughts:** Rebooting 100DaysofCode.
 
+### Day 2: July 1st, 2019
+
+**Today's Progress**: Codecademy work with Pythone.
+
+**Thoughts:** Really don't know how I went a week without getting back on.
 
 
 <!--
