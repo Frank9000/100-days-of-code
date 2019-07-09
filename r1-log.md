@@ -10,6 +10,9 @@ Codecademy exercises and Github restructure.
 ### R1D2
 Codecademy Python
 
+### R1D3
+Codecademy Python
+
 
 
 
