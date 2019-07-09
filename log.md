@@ -18,9 +18,15 @@
 
 ### Day 2: July 1st, 2019
 
-**Today's Progress**: Codecademy work with Pythone.
+**Today's Progress**: Codecademy work with Python.
 
 **Thoughts:** Really don't know how I went a week without getting back on.
+
+### Day 3: July 8th, 2019
+
+**Today's Progress**: Codecademy work with Python.
+
+**Thoughts:** Easy exercises. Starting to really like Python.
 
 
 <!--
