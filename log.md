@@ -10,23 +10,12 @@
 <!--**Link to work:** [Calculator App](http://www.example.com) -->
 
 
-### Day 1: June 23rd, 2019
+### Day 1: March 3rd, 2020
 
-**Today's Progress**: Codecademy work and Github restructure.
+**Today's Progress**: Watched scrimba tutorial on python.
 
 **Thoughts:** Rebooting 100DaysofCode.
 
-### Day 2: July 1st, 2019
-
-**Today's Progress**: Codecademy work with Python.
-
-**Thoughts:** Really don't know how I went a week without getting back on.
-
-### Day 3: July 8th, 2019
-
-**Today's Progress**: Codecademy work with Python.
-
-**Thoughts:** Easy exercises. Starting to really like Python.
 
 
 <!--
